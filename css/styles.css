@@ -349,6 +349,21 @@ section {
   margin-bottom: 0;
 }
 
+/* About */
+.about .introduce {
+  font-size: 2rem;
+}
+
+.about .flex-icon {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 5em;
+}
+
+.about .about-text {
+  font-size: 2rem;
+}
+
 /* portfolio */
 .portfolio .portfolio-item {
   margin-bottom: 30px;
